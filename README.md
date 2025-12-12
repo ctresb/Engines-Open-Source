@@ -31,7 +31,7 @@
 - **[s&box](https://sbox.game)** - Um sucessor espiritual do Garry's Mod e uma carta de amor ao Source 2. [[código-fonte]](https://github.com/Facepunch/sbox-public)
 - **[Stride](https://www.stride3d.net)** - Gratuita, open-source, multiplataforma. [[código-fonte]](https://github.com/stride3d/stride)
 
-## CPP
+## C++
 
 - **[Cafu](https://www.cafu.de)** - Uma engine de jogos e gráficos para ação 3D multiplayer, multiplataforma e em tempo real. [[código-fonte]](https://bitbucket.org/cafu/cafu/src/master)
 - **[Carimbo](https://carimbo.site)** - Uma engine de jogos 2D leve escrita em C++ moderno. [[código-fonte]](https://github.com/willtobyte/carimbo)
